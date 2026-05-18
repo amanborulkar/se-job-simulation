@@ -17,9 +17,6 @@ swe_job_sim/
 ├── tests/
 │   ├── __init__.py
 │   └── test_app.py             ← Full test suite (unittest + pytest)
-├── reports/                    ← Auto-created by pytest (gitignored)
-│   ├── junit.xml
-│   └── coverage.xml
 └── .github/
     └── workflows/
         └── ci.yml              ← GitHub Actions CI pipeline
