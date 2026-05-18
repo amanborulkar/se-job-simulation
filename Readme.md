@@ -129,7 +129,3 @@ This repo follows that same principle:
 | **Radar Chart**  | Normalised salary & openings comparison across roles   |
 
 ---
-
-## License
-
-MIT
